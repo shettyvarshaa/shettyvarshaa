@@ -1,4 +1,3 @@
-<p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20Everybody&fontSize=90" />
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
+</div>
