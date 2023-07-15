@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@shettyvarshaa275">
-    <img src="https://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=black" alt="Youtube Badge"/>
   </a>
   <!-- [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@shettyvarshaa275)](https://medium.com/@shettyvarshaa275) -->
   <a href="https://twitter.com/shetty_varshaa">
