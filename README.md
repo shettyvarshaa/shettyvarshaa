@@ -21,5 +21,5 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shettyvarshaa&style=plastic&color=red&label=Views" alt=""></p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XGhTPVMgzLv7s2TOE6/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/jVTT2q1G1GrUP50XZx/giphy.gif" width="600" height="400"/>
 </div>
