@@ -1,3 +1,4 @@
+<h1 align="center">Hey There ! <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" width="40"></h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
 </div>
@@ -15,4 +16,3 @@
   </a>
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shettyvarshaa&style=plastic&color=red&label=Views" alt=""></p>
-<h1 align="center">Hey There ! <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" width="40"></h1>
