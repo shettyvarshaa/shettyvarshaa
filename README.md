@@ -23,3 +23,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jVTT2q1G1GrUP50XZx/giphy.gif" width="600" height="400"/>
 </div>
+
+### :woman_technologist: &nbsp;About Me :
+
+I am an Undergrad Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 🔭 I'm on track with learning more about Cloud Solutions using Google Cloud, Front-End Web and Competitive Programming
+- 🌱 I enjoy reading tech articles and newsletters
+- ⚡ Have got an average of 90 wpm 😉
+
+---
+
