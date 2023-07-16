@@ -1,4 +1,7 @@
-<h1 align="center">Hey There ! <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" width="40"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20There!&height=100&section=header"/>
+</p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
 </div>
