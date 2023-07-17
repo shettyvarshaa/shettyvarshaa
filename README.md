@@ -29,6 +29,6 @@ I am an Undergrad Engineering Student <img src="https://media.giphy.com/media/WU
 - 🔭 Trying my hands on learning more about Cloud Solutions using Google Cloud, Front-End Web and Competitive Programming
 - 🌱 I enjoy reading tech articles and newsletters
 - ⚡ Have got an average of 90 wpm 😉
-
+- 🎧 A little interested in music
 ---
 
