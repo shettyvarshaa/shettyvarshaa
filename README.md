@@ -12,8 +12,6 @@
   <a href="https://medium.com/@shettyvarshaa275">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <!-- [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@shettyvarshaa275)](https://medium.com/@shettyvarshaa275) -->
-  <!--https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif-->
   <a href="https://twitter.com/shetty_varshaa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
