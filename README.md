@@ -37,6 +37,6 @@ I am an Undergrad Engineering Student from India.
 
 | Stats    | Streak    |
 | :---: | :---: |
-|<a href="https://github.com/shettyvarshaa"><img alt="Varshaa's Stat" src="https://github-readme-stats.vercel.app/api?username=shettyvarshaa&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shettyvarshaa&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="VarshaaStreak"/>|
+|<a href="https://github.com/shettyvarshaa"><img alt="Varshaa's Stat" src="https://github-readme-stats.vercel.app/api?username=shettyvarshaa&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/>|
 
 
