@@ -31,6 +31,7 @@ I am an Undergrad Engineering Student from India.
   <img src="https://media.giphy.com/media/jVTT2q1G1GrUP50XZx/giphy.gif" width="600" height="400"/>
 </div>
 
+[![An image of @varshaashetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varshaashetty)](https://holopin.io/@varshaashetty)
 
 ---
 ## 🔥 Streak Stats
