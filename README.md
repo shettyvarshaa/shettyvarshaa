@@ -17,7 +17,7 @@ I am an Undergrad Engineering Student from India.
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/varshaa-shetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshaa-shetty" height="30" width="40" /></a>
   <a href="https://twitter.com/shetty_varshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shetty_varshaa" height="30" width="40" /></a>
-  <a href="https://dev.to/varshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshaa" height="30" width="40" /></a>
+  <a href="https://dev.to/varshaa/apis-101-with-postman-3f1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshaa" height="30" width="40" /></a>
 </div>
 <br/>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shettyvarshaa&style=plastic&color=red&label=Views" alt=""></p>
