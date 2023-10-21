@@ -15,16 +15,11 @@ I am an Undergrad Engineering Student from India.
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/varshaa-shetty/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@shettyvarshaa275">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://twitter.com/shetty_varshaa">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/varshaa-shetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshaa-shetty" height="30" width="40" /></a>
+  <a href="https://twitter.com/shetty_varshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shetty_varshaa" height="30" width="40" /></a>
+  <a href="https://dev.to/varshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshaa" height="30" width="40" /></a>
 </div>
+<br/>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shettyvarshaa&style=plastic&color=red&label=Views" alt=""></p>
 
 <div align="center">
