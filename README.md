@@ -6,7 +6,7 @@
 
 I am an Undergrad Engineering Student from India.
 
-- 🔭 Trying my hands on learning more about Data, Google Cloud and Competitive Programming
+- 🔭 Trying my hands on learning more about Blockchain, Google Cloud and Competitive Programming
 - 🌱 I enjoy reading tech articles and newsletters
 - ⚡ Have got an average of 90 wpm 😉
 - 🎧 A little interested in music I'd say
