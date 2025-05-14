@@ -7,7 +7,7 @@
 I am an Undergrad Engineering Student from India.
 
 - 🔭 Trying my hands on programming :)
-- 🌱 I enjoy reading tech articles and newsletters
+- 🌱 Love meeting fellow Devs at Developer Conferences
 - ⚡ Have got an average of 90 wpm 😉
 - 🎧 A little interested in music I'd say
 ---
