@@ -9,7 +9,7 @@ I am an Undergrad Engineering Student from India.
 - 🔭 Trying my hands on programming :)
 - 🌱 Love meeting fellow Devs at Developer Conferences
 - ⚡ Have got an average of 90 wpm 😉
-- 🎧 A little interested in music I'd say
+<!-- - 🎧 A little interested in music I'd say -->
 ---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
