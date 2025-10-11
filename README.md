@@ -4,10 +4,10 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an Undergrad Engineering Student from India.
+Yo! A little about me
 
 - 🔭 Trying my hands on programming :)
-- 🌱 Love meeting fellow Devs at Developer Conferences
+- 🌱 Love meeting fellow Devs
 - ⚡ Have got an average of 90 wpm 😉
 <!-- - 🎧 A little interested in music I'd say -->
 ---
