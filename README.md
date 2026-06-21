@@ -8,7 +8,7 @@ Yo! A little about me
 
 - 🔭 Trying my hands on programming :)
 - 🌱 Love meeting fellow Devs
-- ⚡ Have got an average of 90 wpm 😉
+- ⚡ Have got an average of over 100 wpm 😉
 <!-- - 🎧 A little interested in music I'd say -->
 ---
 <div id="header" align="center">
